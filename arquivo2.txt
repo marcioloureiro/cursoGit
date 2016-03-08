@@ -1,0 +1,1 @@
+Meu segundo arquivo versionado com Git
