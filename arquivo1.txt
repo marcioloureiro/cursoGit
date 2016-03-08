@@ -1,1 +1,2 @@
 Meu primeiro arquivo versionado com Git
+Auterando o arquivo
